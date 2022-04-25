@@ -1,0 +1,9 @@
+.build
+.mbed
+projectfiles
+*.py*
+mbed-os
+BUILD
+
+eCompass_FPU_Lib
+FXOS8700Q
