@@ -1,4 +1,4 @@
-# JimCarverK64F-FXOS8700UpdatedExample
+# JimCarver's updated example for K64F-FXOS8700
 Thi is My updated version of JimCarter's FXOS8700 6-axis IMU example code. The measurement unit in question is present on F64K development board.
 
 At the time of making this example, the latest Mbed-os version was 6.15.1. This example is based on Jim Carver's example written for Mbed 2. I made following changes to the code:
